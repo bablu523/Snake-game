@@ -1,0 +1,1 @@
+This is a classic Snake game built in Python using the Tkinter library for the graphical user interface. The game features smooth controls, an interactive GUI, and simple gameplay mechanics, where the snake grows in size with each collected item. Ideal for beginners learning Python and GUI programming.
